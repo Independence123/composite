@@ -7,4 +7,6 @@ homework 3  <br>
 我知道这样很不好，但是感觉什么都不说更不好，最终还是决定写下这段话。 2017.5.31  22:10 <br>
 <br>
 附上学霸作品，已经过授权 2017.5.21 23:14<br> 
-<a href="https://github.com/hello-sea/DesignPatterns/tree/master/3--task%203_2">请点击此链接</a>
+<a href="https://github.com/hello-sea/DesignPatterns/tree/master/3--task%203_2">请点击此链接</a><br>
+
+回头还是会自己写的。
